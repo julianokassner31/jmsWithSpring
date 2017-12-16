@@ -1,0 +1,3 @@
+jms\com\spring\pojo\Email.class
+jms\com\spring\receiver\Application.class
+jms\com\spring\receiver\Receiver.class
